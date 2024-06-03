@@ -1,0 +1,13 @@
+What is this project?
+--> This is my attempt at creating the pac-man game, simple as that.
+    It is not yet completely finished, it has only one level.
+    Although it lacks more levels the game logic is complete all the ghosts have their AI working, the game
+    knows how to switch from different states and the winning conditions work
+
+One teeny tiny problem:
+--> Keyboard might not work sometimes when opening the game.
+    This is a bug that I really didn't know how to fix yet but will surely fix it when I find the cause.
+    If you have any idea how to help me fix it please post it as an issue or send me an email at ahemdhoussemayachi@gmail.com
+
+How to run?
+--> Compile all classes and run Main/app.java or simply let your favourite IDE handle the work
